@@ -24,10 +24,16 @@
 <br>
 
 ## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-gupta-b15638218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-gupta-b15638218/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/dev122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dev122" height="30" width="40" /></a>
-</p>
+<div>
+ <a href="devparker48@gmail.com@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dev-gupta-b15638218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/dev122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dev122" height="30" width="40" /></a>  
+<a href="https://twitter.com/devparker48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devparker48" height="30" width="40" /></a>  
+<a href="[https://instagram.com/](https://twitter.com/ssh.harshu)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devparker" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/devparker48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devparker48" height="30" width="40" /></a>
+<a href="https://discord.gg/GFqsH8b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DrStrange#9896" height="30" width="40" /></a>
+
+</div>
 
 <br>
 <br>
@@ -45,18 +51,22 @@
  <br>
  
 ## 🏆 GitHub Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-98" alt="dev-98" /></a> </p>
-
+<div align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=dev-98&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<div>
 <br>
 <br>
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-98&show_icons=true&locale=en&layout=compact" alt="dev-98" /></p>
+|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
+|---|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=gruvbox)](https://github.com/dev-98/)|[![GitHub Streak](https://streak-stats.demolab.com?user=dev-98&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/dev-98/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-98&theme=gruvbox)](https://github.com/dev-98/)|
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-98&show_icons=true&locale=en" alt="dev-98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-98&" alt="dev-98" /></p>
-
+ <a href='https://github.com/ghsharma/'>
+<div align='center'>
+<img src='https://github.com/ghsharma/ghsharma/blob/output/github-contribution-grid-snake.svg'/>
+</div></a>
+  
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p> Refresh your page for different quotes
