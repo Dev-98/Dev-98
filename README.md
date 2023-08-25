@@ -62,7 +62,7 @@
 </div></a>
   
 ## ✍️ Random Dev Quote:
+   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p align='center'>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
    Refresh your page for different quotes
 </p>
