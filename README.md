@@ -50,21 +50,15 @@
  <br>
  <br>
  
-## 🏆 GitHub Trophies:
-<div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=dev-98&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
-<div>
-<br>
-<br>
 
 ## 📊 GitHub Stats:
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
 |[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=gruvbox)](https://github.com/dev-98/)|[![GitHub Streak](https://streak-stats.demolab.com?user=dev-98&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/dev-98/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-98&theme=gruvbox)](https://github.com/dev-98/)|
 
- <a href='https://github.com/ghsharma/'>
+ <a href='https://github.com/dev-98/'>
 <div align='center'>
-<img src='https://github.com/ghsharma/ghsharma/blob/output/github-contribution-grid-snake.svg'/>
+<img src='https://github.com/dev-98/dev-98/blob/output/github-contribution-grid-snake.svg'/>
 </div></a>
   
 ## ✍️ Random Dev Quote:
