@@ -58,7 +58,7 @@
 
  <a href='https://github.com/dev-98/'>
 <div align='center'>
-<img src='https://github.com/dev-98/dev-98/blob/output/github-contribution-grid-snake.svg'/>
+<img src='https://github.com/ghsharma/ghsharma/blob/output/github-contribution-grid-snake.svg'/>
 </div></a>
   
 ## ✍️ Random Dev Quote:
