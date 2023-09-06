@@ -64,5 +64,5 @@
 ## ✍️ Random Dev Quote:
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p align='center'>
-   Refresh your page for different quotes
+   Refresh this page for different quotes
 </p>
