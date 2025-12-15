@@ -12,7 +12,7 @@
 I build intelligent systems that combine **LLMs, agentic AI, RAG pipelines, real-time processing, and multimodal interfaces**.  
 From deploying production-grade **Azure AI Search RAG stacks** to creating **LLM-powered robotic agents with real-time audio I/O**, I love solving complex problems through practical, scalable engineering.
 
-- 🔭 **Data Scientist @ Ghaia.ai** — architecting LLM agents, NL2SQL pipelines, RAG systems, and enterprise orchestration frameworks. :contentReference[oaicite:1]{index=1}  
+- 🔭 **Data Scientist @ Ghaia.ai** — architecting LLM agents, NL2SQL pipelines, RAG systems, and enterprise orchestration frameworks. 
 - 🧠 Currently deep-diving into **Liquid Neural Networks, multi-agent systems, and advanced RUL modeling**.  
 - 🤝 Open to collaborating on **Agentic AI, Robotics + LLMs, Predictive Maintenance, or RAG tooling**.  
 - 💬 Ask me about **LLMs, AutoGen, RAG design, MLOps, Time-Series Forecasting, Deep Learning, FastAPI, Docker/K8s**.  
@@ -26,7 +26,6 @@ From deploying production-grade **Azure AI Search RAG stacks** to creating **LLM
 ### 🤖 **LLM-Driven Robotic Agent – Unitree G1**
 Real-time conversational agent with **audio I/O**, gesture execution, and SDK motion control.  
 Includes **speech understanding + action execution + memory** for fluid human–robot interaction.  
-*(From professional experience — page 1)* :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -36,19 +35,16 @@ Built a multi-agent RAG framework with:
 - DocIntel parsing (PDF, PPT, DOCX, XLSX, Images)  
 - NL2SQL querying  
 - Short-term memory & chain-of-thought orchestration  
-*(Experience — page 1)* :contentReference[oaicite:3]{index=3}
 
 ---
 
 ### ⚙️ **Predictive Maintenance – RUL Modeling**
 Created LSTM/TFT models for estimating **Remaining Useful Life** of vehicle components using voltage, temperature & sensor telemetry. Achieved high fault-classification accuracy on U.S. fleet logs.  
-*(Experience — page 1)* :contentReference[oaicite:4]{index=4}
 
 ---
 
 ### 📈 **MarketPulseFX – EUR/USD Forecasting Platform**
 End-to-end forecasting system using **TFT + LNN**, integrating micro/macro indicators, backtesting, and MLflow tracking.  
-*(Projects — page 2)* :contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -61,7 +57,6 @@ Built on **Gemini, Pinecone, LightRAG**, and optimized with GPU acceleration + S
 
 ### 🌀 **OpenCV Game Controller – Asphalt 9**
 A racing controller using computer vision & physical interaction via a tracked board.  
-*(Projects — page 2)* :contentReference[oaicite:7]{index=7}
 
 ---
 
